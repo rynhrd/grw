@@ -1,0 +1,16 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "addreceipt",
+      "icon": "menu-icon tf-icons ti ti-receipt-2",
+      "name": "Buat Orderan",
+      "slug": "addreceipt"
+    }
+  ]
+}
